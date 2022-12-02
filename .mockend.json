@@ -1,7 +1,7 @@
 {
   "Data": {
     "itemsCount": {
-      "int": { "int": { "min": 0, "max": 1000000 } }
+      "string": {}
     }
   }
 }

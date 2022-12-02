@@ -1,1 +1,46 @@
-
+{
+  "itemsCount": 4,
+  "priceTotal": "CHF 192.00",
+  "priceTotalValue": 192,
+  "warning": null,
+  "items": [{
+    "ignoreOrderLimit": false,
+    "item": {
+      "productId": "4720",
+      "label": null,
+      "name": "Salut ! Je suis Emmo et je te montre les sentiments de ton enfant.",
+      "description": "Content·e ou triste ? Emmo aide ton enfant à montrer ses sentiments. Nous livrons le petit monstre en peluche contre paiement anticipé.",
+      "pricePerVariant": "CHF 48.–",
+      "priceTotal": "CHF 192.00",
+      "priceTotalValue": 192
+    },
+    "languageVariations": [{
+      "productId": "4720",
+      "variantId": "c4ebe053-02bd-470a-82da-ad022232a163",
+      "name": "allemand",
+      "quantity": 1,
+      "articleNumber": ""
+    },
+      {
+        "productId": "4720",
+        "variantId": "63120c35-ec3d-4fec-9efe-7df17be9850b",
+        "name": "français",
+        "quantity": 1,
+        "articleNumber": ""
+      },
+      {
+        "productId": "4720",
+        "variantId": "b9ad3f86-8c63-485b-a372-a75a3a21bbd1",
+        "name": "italien",
+        "quantity": 2,
+        "articleNumber": ""
+      }]
+  }],
+  "ressources": {
+    "remove": "Supprimer",
+    "add": "Ajouter une langue supplémentaire",
+    "costPerItem": "Prix par unité",
+    "plusShipping": "hors frais de port",
+    "sum": "Total  (hors frais d’envoi)"
+  }
+}
